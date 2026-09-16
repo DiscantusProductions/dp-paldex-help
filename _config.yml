@@ -1,0 +1,10 @@
+# Serves the licence help pages at one URL per error code.
+#
+# The app prints `ERROR_HELP_BASE` + the code, and those builds cannot be
+# edited afterwards -- a version from two years ago still points here. So
+# these paths are permanent: rename one and you break every copy of the app
+# already installed.
+title: DP_Paldex licence help
+description: What each DP_Paldex licence error code means, and what to do.
+theme: jekyll-theme-minimal
+show_downloads: false
