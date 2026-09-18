@@ -13,6 +13,12 @@ code-signed. **[Read this before you install](install/)** — it covers the
 "Windows protected your PC" box, Windows 11's Smart App Control, antivirus
 exclusions, and how to check your download is the file we published.
 
+## What this records, and what it sends
+
+No telemetry, no analytics, no account. **[The full statement](privacy/)** covers
+diagnostic reports, the keyboard hook and why it is needed, and the list of
+things that are never written down at all.
+
 ---
 
 # Licence error codes
