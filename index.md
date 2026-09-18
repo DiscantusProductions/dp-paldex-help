@@ -4,6 +4,17 @@ title: "DP_Paldex licence help"
 permalink: /
 ---
 
+# DP_Paldex help
+
+## Installing for the first time?
+
+Windows shows a warning the first time you run DP_Paldex, because it is not
+code-signed. **[Read this before you install](install/)** — it covers the
+"Windows protected your PC" box, Windows 11's Smart App Control, antivirus
+exclusions, and how to check your download is the file we published.
+
+---
+
 # Licence error codes
 
 If DP_Paldex showed you a code, it is explained here.
