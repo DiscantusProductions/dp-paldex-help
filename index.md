@@ -15,9 +15,8 @@ exclusions, and how to check your download is the file we published.
 
 ## What this records, and what it sends
 
-No telemetry, no analytics, no account. **[The full statement](privacy/)** covers
-diagnostic reports, the keyboard hook and why it is needed, and the list of
-things that are never written down at all.
+No telemetry, no analytics, no account. Nothing leaves your machine unless you
+press a button that says it will.
 
 ---
 
